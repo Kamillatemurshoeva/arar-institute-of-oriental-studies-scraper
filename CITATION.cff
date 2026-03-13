@@ -1,0 +1,18 @@
+
+cff-version: 1.2.0
+title: "arar-collection-14-scraper"
+message: "If you use this repository, please cite it as part of the Open Data Armenia project."
+type: software
+authors:
+  - family-names: "Open Data Armenia"
+    given-names: "Project"
+abstract: "Scraper and dataset for ARAR Collection 14 (Publications of the Institute of Oriental Studies of NAS RA), created as part of the Open Data Armenia project documenting Armenian heritage worldwide."
+license: "MIT"
+keywords:
+  - Armenia
+  - Armenian heritage
+  - digital humanities
+  - metadata
+  - scraping
+  - ARAR
+  - oriental studies
