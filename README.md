@@ -1,5 +1,5 @@
 
-# ARAR Collection 14 Scraper
+# ARAR Collection 14 Scraper — Publications of the Institute of Oriental Studies of NAS RA
 
 This repository contains a Python scraper designed to extract **metadata from the Pan-Armenian Digital Library (ARAR)**.
 
@@ -200,9 +200,3 @@ It is **not officially affiliated with the Pan-Armenian Digital Library (ARAR)**
 ## Author
 
 **Open Data Armenia**
-
----
-
-## Suggested GitHub Description
-
-Scraper and dataset for ARAR Collection 14 (Publications of the Institute of Oriental Studies of NAS RA), part of the Open Data Armenia project documenting Armenian heritage worldwide.
